@@ -16,7 +16,7 @@ buildscript {
 
 allprojects {
     repositories {
-//        google()
+        google()
 //        jcenter()
         maven {url'http://localhost:8081/artifactory/maven-test/'}
         
